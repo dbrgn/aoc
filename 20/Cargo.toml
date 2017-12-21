@@ -1,0 +1,8 @@
+[package]
+name = "aoc-20"
+version = "0.1.0"
+authors = ["Danilo Bargen <mail@dbrgn.ch>"]
+
+[dependencies]
+regex = "0.2"
+rayon = "0.9"
